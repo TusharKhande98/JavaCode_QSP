@@ -6,7 +6,7 @@ class QSP10_IfElseStatement_Assgn2 {
         double sal = 400000;
         double annual = sal*12;
 
-        if(annual<=0)
+        if(annual<=0) 
         {
             System.out.println("Please enter correct salary amount");
         }
