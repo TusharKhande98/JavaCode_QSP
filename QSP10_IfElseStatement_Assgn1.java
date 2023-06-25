@@ -19,6 +19,5 @@ class QSP10_IfElseStatement_Assgn1 {
             System.out.println("Wrong Input...");
         }
 
-
     }
 }
